@@ -1,0 +1,15 @@
+header {
+    text-align: center;
+}
+header img {
+    height: 150px;
+}
+
+section.red-block {
+    padding: 20px;
+    background: rgb(240, 202, 202);
+}
+
+section img {
+    width: 50%;
+}

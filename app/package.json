@@ -7,12 +7,17 @@
     "start": "nodemon app.js"
   },
   "keywords": [],
-  "author": "Sandra Šliuževičienė",
+  "author": "",
   "license": "ISC",
   "dependencies": {
+    "all": "^0.0.0",
+    "bcrypt": "^5.1.0",
     "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
     "mysql2": "^3.1.1",
-    "nodemon": "^2.0.20"
+    "nodemon": "^2.0.20",
+    "react-router-dom": "^6.8.1"
   }
 }
